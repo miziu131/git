@@ -4,7 +4,7 @@
 |-|---|
 |git pull origin master| 		załodowanie lokalnego folderu stanem z serwera|
 |git remote show origin|		wyświetlenie aktualnej ścieżki ustawionego domyśnej lokalizacji na serwerze |
-|||
+|git remote -v|Shows names and URLs of remotes|
 
 
 	git init
