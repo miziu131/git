@@ -10,7 +10,7 @@
 	git init
 	git clone <url>
 	git pull origin master  				 #update from remote
-	git pull origin my_default_branch_name 	 #f your default branch is different than master
+	git pull origin my_default_branch_name 	 #if your default branch is different than master
 
 # Commit
 	git add --all
